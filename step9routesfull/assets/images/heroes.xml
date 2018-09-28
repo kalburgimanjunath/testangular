@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<heroes>
+ <appearance>
+	<eye-color>blue</eye-color>
+	<gender>Male</gender>
+	<hair-color>black</hair-color>
+	<height>
+	   <heroes>6'2</heroes>
+	   <heroes>188 cm</heroes>
+	</height>
+	<race>Human</race>
+	<weight>
+	   <heroes>210 lb</heroes>
+	   <heroes>95 kg</heroes>
+	</weight>
+ </appearance>
+ <biography>
+	<budget>3.5</budget>
+	<earning>41.13</earning>
+	<full-name>Bruce Wayne</full-name>
+	<place-of-birth>Crest Hill, Bristol Township; Gotham County</place-of-birth>
+	<publisher>DC Comics</publisher>
+	<release-date>6/19/1989</release-date>
+ </biography>
+ <id>1</id>
+ <image>
+	<url>images/batman.jpg</url>
+ </image>
+ <name>Batman</name>
+ <powerstats>
+	<combat>100</combat>
+	<durability>50</durability>
+	<intelligence>100</intelligence>
+	<power>47</power>
+	<speed>27</speed>
+	<strength>26</strength>
+ </powerstats>
+ <work>
+	<base>Batcave, Stately Wayne Manor, Gotham City; Hall of Justice, Justice League Watchtower</base>
+	<occupation>Businessman</occupation>
+ </work>
+</heroes>
+<heroes>
+ <appearance>
+	<eye-color>Blue</eye-color>
+	<gender>Male</gender>
+	<hair-color>Blond</hair-color>
+	<height>
+	   <heroes>6'0</heroes>
+	   <heroes>183 cm</heroes>
+	</height>
+	<race>Human</race>
+	<weight>
+	   <heroes>190 lb</heroes>
+	   <heroes>86 kg</heroes>
+	</weight>
+ </appearance>
+ <biography>
+	<budget>16.93</budget>
+	<earning>519.3</earning>
+	<full-name>Scott Lang</full-name>
+	<place-of-birth>Coral Gables, Florida</place-of-birth>
+	<publisher>Marvel Comics</publisher>
+	<release-date>7/24/2015</release-date>
+ </biography>
+ <id>2</id>
+ <image>
+	<url>images/antman.jpg</url>
+ </image>
+ <name>Ant-Man</name>
+ <powerstats>
+	<combat>30</combat>
+	<durability>40</durability>
+	<intelligence>75</intelligence>
+	<power>53</power>
+	<speed>17</speed>
+	<strength>18</strength>
+ </powerstats>
+ <work>
+	<base>South Beach, Miami, Florida; formerly Farmingdale, Long Island, New York</base>
+	<occupation>Electronics Technician,</occupation>
+ </work>
+</heroes>
+<heroes>
+ <appearance>
+	<eye-color>Blue</eye-color>
+	<gender>Female</gender>
+	<hair-color>Brown</hair-color>
+	<height>
+	   <heroes>5'7</heroes>
+	   <heroes>170 cm</heroes>
+	</height>
+	<race>Mutant</race>
+	<weight>
+	   <heroes>132 lb</heroes>
+	   <heroes>59 kg</heroes>
+	</weight>
+ </appearance>
+ <biography>
+	<budget>204.6</budget>
+	<earning>140.5</earning>
+	<full-name>Wanda Maximoff</full-name>
+	<place-of-birth>Wundagore Mountain, Transia</place-of-birth>
+	<publisher>Marvel Comics</publisher>
+	<release-date>4/24/2015</release-date>
+ </biography>
+ <id>3</id>
+ <image>
+	<url>images/scarletwitch.jpg</url>
+ </image>
+ <name>Scarlet Witch</name>
+ <powerstats>
+	<combat>80</combat>
+	<durability>70</durability>
+	<intelligence>100</intelligence>
+	<power>100</power>
+	<speed>29</speed>
+	<strength>10</strength>
+ </powerstats>
+ <work>
+	<base>Mobile; formerly The Works; Avengers Compound, California; Avengers Mansion, New York</base>
+	<occupation>Adventurer; formerly witchcraft tutor, housewife, terrorist</occupation>
+ </work>
+</heroes>
+<heroes>
+ <appearance>
+	<eye-color>Brown</eye-color>
+	<gender>Male</gender>
+	<hair-color>No Hair</hair-color>
+	<height>
+	   <heroes>6'2</heroes>
+	   <heroes>188 cm</heroes>
+	</height>
+	<race>Mutant</race>
+	<weight>
+	   <heroes>210 lb</heroes>
+	   <heroes>95 kg</heroes>
+	</weight>
+ </appearance>
+ <biography>
+	<budget>58</budget>
+	<earning>783.1</earning>
+	<full-name>Wade Wilson</full-name>
+	<place-of-birth>Canada</place-of-birth>
+	<publisher>Evil Deadpool</publisher>
+	<release-date>2/12/2016</release-date>
+ </biography>
+ <id>4</id>
+ <image>
+	<url>images/deadpool.jpg</url>
+ </image>
+ <name>Deadpool</name>
+ <powerstats>
+	<combat>100</combat>
+	<durability>100</durability>
+	<intelligence>69</intelligence>
+	<power>100</power>
+	<speed>50</speed>
+	<strength>32</strength>
+ </powerstats>
+ <work>
+	<base>Cavern-X, Sedona, Arizona, Mobile</base>
+	<occupation>Mercenary; former enforcer, government operative, sumo wrestler, soldier, assassin, anti-hero, others</occupation>
+ </work>
+</heroes>
+<heroes>
+ <appearance>
+	<eye-color>Blue</eye-color>
+	<gender>Female</gender>
+	<hair-color>Blond</hair-color>
+	<height>
+	   <heroes>5'11</heroes>
+	   <heroes>180 cm</heroes>
+	</height>
+	<race>Human-Kree</race>
+	<weight>
+	   <heroes>165 lb</heroes>
+	   <heroes>74 kg</heroes>
+	</weight>
+ </appearance>
+ <biography>
+	<budget>15.2</budget>
+	<earning>0</earning>
+	<full-name>Carol Danvers</full-name>
+	<place-of-birth>Boston, Massachusetts</place-of-birth>
+	<publisher>Binary</publisher>
+	<release-date>3/8/2019</release-date>
+ </biography>
+ <id>5</id>
+ <image>
+	<url>images/captainmarvel.jpg</url>
+ </image>
+ <name>Captain Marvel</name>
+ <powerstats>
+	<combat>90</combat>
+	<durability>95</durability>
+	<intelligence>84</intelligence>
+	<power>100</power>
+	<speed>71</speed>
+	<strength>88</strength>
+ </powerstats>
+ <work>
+	<base>Avengers Mansion</base>
+	<occupation>Former National Aeronautics and Space Administration security Chief, former magazine editor, former freelance writer, former military intelligence officer.</occupation>
+ </work>
+</heroes>
+<heroes>
+ <appearance>
+	<eye-color>blue</eye-color>
+	<gender>Male</gender>
+	<hair-color>blond</hair-color>
+	<height>
+	   <heroes>6'2</heroes>
+	   <heroes>188 cm</heroes>
+	</height>
+	<race>Human</race>
+	<weight>
+	   <heroes>240 lb</heroes>
+	   <heroes>108 kg</heroes>
+	</weight>
+ </appearance>
+ <biography>
+	<budget>140.0</budget>
+	<earning>370.6</earning>
+	<full-name>Steve Rogers</full-name>
+	<place-of-birth>Manhattan, New York City, New York</place-of-birth>
+	<publisher>Marvel Comics</publisher>
+	<release-date>7/29/2011</release-date>
+ </biography>
+ <id>6</id>
+ <image>
+	<url>images/captainamerica.jpg</url>
+ </image>
+ <name>Captain America</name>
+ <powerstats>
+	<combat>100</combat>
+	<durability>55</durability>
+	<intelligence>69</intelligence>
+	<power>60</power>
+	<speed>38</speed>
+	<strength>19</strength>
+ </powerstats>
+ <work>
+	<base>New York City</base>
+	<occupation>Adventurer, federal official, intelligence operative; former soldier, Hydra agent, liaison between S.H.I.E.L.D. and the Avengers, police officer, teacher, sparring partner.</occupation>
+ </work>
+</heroes>
+<heroes>
+ <appearance>
+	<eye-color>Hazel</eye-color>
+	<gender>Male</gender>
+	<hair-color>Brown</hair-color>
+	<height>
+	   <heroes>5'10</heroes>
+	   <heroes>178 cm</heroes>
+	</height>
+	<race>Human</race>
+	<weight>
+	   <heroes>165 lb</heroes>
+	   <heroes>74 kg</heroes>
+	</weight>
+ </appearance>
+ <biography>
+	<budget>139</budget>
+	<earning>821.7</earning>
+	<full-name>Peter Parker</full-name>
+	<place-of-birth>New York, New York</place-of-birth>
+	<publisher>Marvel Comics</publisher>
+	<release-date>4/29/2002</release-date>
+ </biography>
+ <id>7</id>
+ <image>
+	<url>images/spiderman.jpg</url>
+ </image>
+ <name>Spider-Man</name>
+ <powerstats>
+	<combat>85</combat>
+	<durability>75</durability>
+	<intelligence>90</intelligence>
+	<power>74</power>
+	<speed>67</speed>
+	<strength>55</strength>
+ </powerstats>
+ <work>
+	<base>New York, New York</base>
+	<occupation>Freelance photographer, teacher</occupation>
+ </work>
+</heroes>
+<heroes>
+ <appearance>
+	<eye-color>Grey</eye-color>
+	<gender>Male</gender>
+	<hair-color>Black</hair-color>
+	<height>
+	   <heroes>6'2</heroes>
+	   <heroes>188 cm</heroes>
+	</height>
+	<race>Human</race>
+	<weight>
+	   <heroes>180 lb</heroes>
+	   <heroes>81 kg</heroes>
+	</weight>
+ </appearance>
+ <biography>
+	<budget>236.6</budget>
+	<earning>677.7</earning>
+	<full-name>Stephen Strange</full-name>
+	<place-of-birth>Philadelphia, Pennsylvania</place-of-birth>
+	<publisher>Marvel Comics</publisher>
+	<release-date>10/13/2016</release-date>
+ </biography>
+ <id>8</id>
+ <image>
+	<url>images/doctorstrange.jpg</url>
+ </image>
+ <name>Doctor Strange</name>
+ <powerstats>
+	<combat>60</combat>
+	<durability>84</durability>
+	<intelligence>100</intelligence>
+	<power>100</power>
+	<speed>12</speed>
+	<strength>10</strength>
+ </powerstats>
+ <work>
+	<base>-</base>
+	<occupation>Sorcerer Supreme, retired neurosurgeon</occupation>
+ </work>
+</heroes>
+<heroes>
+ <appearance>
+	<eye-color>Brown</eye-color>
+	<gender>Male</gender>
+	<hair-color>Black</hair-color>
+	<height>
+	   <heroes>6'0</heroes>
+	   <heroes>183 cm</heroes>
+	</height>
+	<race>Human</race>
+	<weight>
+	   <heroes>200 lb</heroes>
+	   <heroes>90 kg</heroes>
+	</weight>
+ </appearance>
+ <biography>
+	<budget>200</budget>
+	<earning>1344.0</earning>
+	<full-name>T'Challa</full-name>
+	<place-of-birth>Wakanda, Africa</place-of-birth>
+	<publisher>Marvel Comics</publisher>
+	<release-date>1/29/2018</release-date>
+ </biography>
+ <id>9</id>
+ <image>
+	<url>images/blackpanther.jpg</url>
+ </image>
+ <name>Black Panther</name>
+ <powerstats>
+	<combat>100</combat>
+	<durability>60</durability>
+	<intelligence>88</intelligence>
+	<power>41</power>
+	<speed>30</speed>
+	<strength>16</strength>
+ </powerstats>
+ <work>
+	<base>Wakanda, Mobile</base>
+	<occupation>King and Chieftain of Wakanda, scientist; former school teacher</occupation>
+ </work>
+</heroes>
+<heroes>
+ <appearance>
+	<eye-color>Green</eye-color>
+	<gender>Male</gender>
+	<hair-color>Green</hair-color>
+	<height>
+	   <heroes>8'0</heroes>
+	   <heroes>244 cm</heroes>
+	</height>
+	<race>Human / Radiation</race>
+	<weight>
+	   <heroes>1400 lb</heroes>
+	   <heroes>630 kg</heroes>
+	</weight>
+ </appearance>
+ <biography>
+	<budget>120.0</budget>
+	<earning>245.4</earning>
+	<full-name>Bruce Banner</full-name>
+	<place-of-birth>Dayton, Ohio</place-of-birth>
+	<publisher>Marvel Comics</publisher>
+	<release-date>6/17/2003</release-date>
+ </biography>
+ <id>10</id>
+ <image>
+	<url>images/hulk.jpg</url>
+ </image>
+ <name>Hulk</name>
+ <powerstats>
+	<combat>85</combat>
+	<durability>100</durability>
+	<intelligence>88</intelligence>
+	<power>98</power>
+	<speed>63</speed>
+	<strength>100</strength>
+ </powerstats>
+ <work>
+	<base>(Banner) Hulkbuster Base, New Mexico, (Hulk) mobile, but prefers New Mexico</base>
+	<occupation>Nuclear physicist, Agent of S.H.I.E.L.D.</occupation>
+ </work>
+</heroes>
+<heroes>
+ <appearance>
+	<eye-color>Blue</eye-color>
+	<gender>Male</gender>
+	<hair-color>Black</hair-color>
+	<height>
+	   <heroes>6'6</heroes>
+	   <heroes>198 cm</heroes>
+	</height>
+	<race>Human</race>
+	<weight>
+	   <heroes>425 lb</heroes>
+	   <heroes>191 kg</heroes>
+	</weight>
+ </appearance>
+ <biography>
+	<budget>140.3</budget>
+	<earning>585.2</earning>
+	<full-name>Tony Stark</full-name>
+	<place-of-birth>Long Island, New York</place-of-birth>
+	<publisher>Marvel Comics</publisher>
+	<release-date>5/1/2008</release-date>
+ </biography>
+ <id>11</id>
+ <image>
+	<url>images/ironman.jpg</url>
+ </image>
+ <name>Iron Man</name>
+ <powerstats>
+	<combat>64</combat>
+	<durability>85</durability>
+	<intelligence>100</intelligence>
+	<power>100</power>
+	<speed>58</speed>
+	<strength>85</strength>
+ </powerstats>
+ <work>
+	<base>Seattle, Washington</base>
+	<occupation>Inventor, Industrialist; former United States Secretary of Defense</occupation>
+ </work>
+</heroes>
+<heroes>
+ <appearance>
+	<eye-color>Green</eye-color>
+	<gender>Female</gender>
+	<hair-color>Auburn</hair-color>
+	<height>
+	   <heroes>5'7</heroes>
+	   <heroes>170 cm</heroes>
+	</height>
+	<race>Human</race>
+	<weight>
+	   <heroes>131 lb</heroes>
+	   <heroes>59 kg</heroes>
+	</weight>
+ </appearance>
+ <biography>
+	<budget>0</budget>
+	<earning>0</earning>
+	<full-name>Natasha Romanoff</full-name>
+	<place-of-birth>Volgograd</place-of-birth>
+	<publisher>Marvel Comics</publisher>
+	<release-date>1/1/2021</release-date>
+ </biography>
+ <id>12</id>
+ <image>
+	<url>images/blackwidow.jpg</url>
+ </image>
+ <name>Black Widow</name>
+ <powerstats>
+	<combat>100</combat>
+	<durability>30</durability>
+	<intelligence>75</intelligence>
+	<power>36</power>
+	<speed>33</speed>
+	<strength>13</strength>
+ </powerstats>
+ <work>
+	<base>Mobile</base>
+	<occupation>Adventurer, Intelligence agent, former ballerina</occupation>
+ </work>
+</heroes>
+<heroes>
+ <appearance>
+	<eye-color>Blue</eye-color>
+	<gender>Male</gender>
+	<hair-color>Blond</hair-color>
+	<height>
+	   <heroes>6'3</heroes>
+	   <heroes>191 cm</heroes>
+	</height>
+	<race>Human</race>
+	<weight>
+	   <heroes>230 lb</heroes>
+	   <heroes>104 kg</heroes>
+	</weight>
+ </appearance>
+ <biography>
+	<budget>204.6</budget>
+	<earning>140.5</earning>
+	<full-name>Clint Barton</full-name>
+	<place-of-birth>Waverly, Iowa</place-of-birth>
+	<publisher>Goliath</publisher>
+	<release-date>4/24/2015</release-date>
+ </biography>
+ <id>13</id>
+ <image>
+	<url>images/hawkeye.jpg</url>
+ </image>
+ <name>Hawkeye</name>
+ <powerstats>
+	<combat>80</combat>
+	<durability>10</durability>
+	<intelligence>56</intelligence>
+	<power>29</power>
+	<speed>21</speed>
+	<strength>12</strength>
+ </powerstats>
+ <work>
+	<base>-</base>
+	<occupation>Adventurer</occupation>
+ </work>
+</heroes>
+<heroes>
+ <appearance>
+	<eye-color>Blue</eye-color>
+	<gender>Male</gender>
+	<hair-color>Blond</hair-color>
+	<height>
+	   <heroes>6'6</heroes>
+	   <heroes>198 cm</heroes>
+	</height>
+	<race>Asgardian</race>
+	<weight>
+	   <heroes>640 lb</heroes>
+	   <heroes>288 kg</heroes>
+	</weight>
+ </appearance>
+ <biography>
+	<budget>150.0</budget>
+	<earning>449.3</earning>
+	<full-name>Thor Odinson</full-name>
+	<place-of-birth>Asgard</place-of-birth>
+	<publisher>Rune King Thor</publisher>
+	<release-date>4/29/2015</release-date>
+ </biography>
+ <id>14</id>
+ <image>
+	<url>images/thor.jpg</url>
+ </image>
+ <name>Thor</name>
+ <powerstats>
+	<combat>100</combat>
+	<durability>100</durability>
+	<intelligence>69</intelligence>
+	<power>100</power>
+	<speed>83</speed>
+	<strength>100</strength>
+ </powerstats>
+ <work>
+	<base>New York, New York</base>
+	<occupation>King of Asgard; formerly EMS Technician; Physician</occupation>
+ </work>
+</heroes>
+<heroes>
+ <appearance>
+	<eye-color>Gold</eye-color>
+	<gender>Male</gender>
+	<hair-color>No Hair</hair-color>
+	<height>
+	   <heroes>6'3</heroes>
+	   <heroes>191 cm</heroes>
+	</height>
+	<race>Android</race>
+	<weight>
+	   <heroes>300 lb</heroes>
+	   <heroes>135 kg</heroes>
+	</weight>
+ </appearance>
+ <biography>
+	<budget>204.6</budget>
+	<earning>140.5</earning>
+	<full-name>Vision</full-name>
+	<place-of-birth>New York</place-of-birth>
+	<publisher>Anti-Vision</publisher>
+	<release-date>4/24/2015</release-date>
+ </biography>
+ <id>15</id>
+ <image>
+	<url>images/vision.jpg</url>
+ </image>
+ <name>Vision</name>
+ <powerstats>
+	<combat>70</combat>
+	<durability>95</durability>
+	<intelligence>100</intelligence>
+	<power>100</power>
+	<speed>54</speed>
+	<strength>72</strength>
+ </powerstats>
+ <work>
+	<base>Mobile. Formerly Avengers Mansion, New York City and Avengers Compound</base>
+	<occupation>-</occupation>
+ </work>
+</heroes>
+<heroes>
+ <appearance>
+	<eye-color>Brown</eye-color>
+	<gender>Male</gender>
+	<hair-color>Black</hair-color>
+	<height>
+	   <heroes>6'2</heroes>
+	   <heroes>188 cm</heroes>
+	</height>
+	<race>Human</race>
+	<weight>
+	   <heroes>240 lb</heroes>
+	   <heroes>108 kg</heroes>
+	</weight>
+ </appearance>
+ <biography>
+	<budget>204.6</budget>
+	<earning>140.5</earning>
+	<full-name>Sam Wilson</full-name>
+	<place-of-birth>New York, New York</place-of-birth>
+	<publisher>Marvel Comics</publisher>
+	<release-date>4/24/2015</release-date>
+ </biography>
+ <id>16</id>
+ <image>
+	<url>images/falcon.jpg</url>
+ </image>
+ <name>Falcon</name>
+ <powerstats>
+	<combat>64</combat>
+	<durability>28</durability>
+	<intelligence>38</intelligence>
+	<power>22</power>
+	<speed>50</speed>
+	<strength>13</strength>
+ </powerstats>
+ <work>
+	<base>New York, New York; formerly Avengers Mansion, New York City, New York; S.H.I.E.L.D. Helicarrier.</base>
+	<occupation>Crimefighter, (former) freelance artist</occupation>
+ </work>
+</heroes>
+
